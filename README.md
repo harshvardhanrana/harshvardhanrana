@@ -3,7 +3,7 @@
 ### 👯 I’m looking to collaborate on projects
 ### 🌱 I’m currently learning GitHub
 ### Fun Fact: There are more than 80,000 people with the same number of hairs in the world.
-
+  ![Donut](yummydonut1.png)
 
 <!--
 **harshvardhanrana/harshvardhanrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
